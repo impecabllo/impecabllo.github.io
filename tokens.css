@@ -1,0 +1,52 @@
+/* Hallmark · macrostructure: Portfolio Grid · genre: editorial · theme: Studio · tone: direct · anchor hue: orange
+ * Audience: Russian-speaking business owners · Use: development services · Enrichment: real product captures
+ * Nav: N1a (two section destinations) · Footer: Ft5 · Grid: two projects, second offset · Motion: link-arrow, button-press
+ * Pre-emit critique: P5 H5 E4 S5 R5 V4 */
+:root {
+  --color-paper: oklch(97.2% 0.008 80);
+  --color-ink: oklch(22.5% 0.009 60);
+  --color-muted: oklch(48% 0.014 60);
+  --color-rule: oklch(83.5% 0.014 80);
+  --color-accent: oklch(58.5% 0.203 36);
+  --color-accent-ink: oklch(47% 0.17 36);
+  --color-focus: oklch(58.5% 0.203 36);
+  --color-project-sage: oklch(88% 0.022 135);
+  --color-project-lilac: oklch(88.5% 0.023 295);
+  --color-dark: oklch(22% 0.012 65);
+  --color-dark-panel: oklch(27% 0.013 65);
+  --color-on-dark: oklch(96% 0.009 80);
+  --color-dark-muted: oklch(75% 0.014 80);
+  --color-dark-rule: oklch(39% 0.012 65);
+  --color-demo-accent: oklch(84% 0.145 125);
+  --color-transparent: transparent;
+  --font-display: 'Manrope', sans-serif;
+  --font-body: 'Onest', sans-serif;
+  --space-2xs: 4px;
+  --space-xs: 8px;
+  --space-sm: 12px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+  --space-4xl: 96px;
+  --space-5xl: 128px;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.5rem;
+  --text-2xl: 2rem;
+  --text-section: clamp(2.25rem, 4.5vw, 4.5rem);
+  --text-display: clamp(2.75rem, 7.4vw, 7.5rem);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-short: 160ms;
+  --dur-medium: 240ms;
+  --rule-hair: 1px;
+  --radius-small: 4px;
+  --radius-medium: 12px;
+  --page-gutter: clamp(20px, 4.5vw, 80px);
+  --page-max: 1600px;
+}

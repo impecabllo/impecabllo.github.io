@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://impecabllo.github.io/sitemap.xml
